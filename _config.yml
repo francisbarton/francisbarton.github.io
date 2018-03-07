@@ -1,8 +1,6 @@
 ---
 title: francisbarton.github.io
 timezone: UTC
-name: Francis Barton
-markdown: 
 collections:
   posts:
     title: Posts
@@ -10,3 +8,5 @@ collections:
   uploads:
     title: Uploads
     output: true
+name: Francis Barton
+markdown: 
