@@ -1,6 +1,4 @@
 ---
-
-
 ---
 
 <p>From <a href="https://theimpostume.blogspot.com/2017/07/in-praise-of-exorbitant-serendipity.html">https://theimpostume.blogspot.com/2017/07/in-praise-of-exorbitant-serendipity.html</a></p>
